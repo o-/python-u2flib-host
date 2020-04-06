@@ -57,6 +57,7 @@ DEVICES = [
     (0x1ea8, 0xf025),  # Thetis U2F
     (0x1d50, 0x60fc),  # OnlyKey U2F
     (0x1209, 0x53c1),  # Trezor U2F/FIDO2
+    (0x0483, 0xa2ca),  # SoloKeys U2F/FIDO2
 ]
 HID_RPT_SIZE = 64
 
